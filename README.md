@@ -1,5 +1,6 @@
-Python Example (example-python):
-================================
+Lingotek Python Example:
+========================
+This code example demonstrates how to send content up to Lingotek and download the resulting translations. 
 
 python
  - version 2.7
